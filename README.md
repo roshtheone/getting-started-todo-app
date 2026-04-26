@@ -23,7 +23,7 @@ they are split into two separate services. This allows [Vite](https://vitejs.dev
 to manage the React app while [nodemon](https://nodemon.io/) works with the 
 backend. With containers, it's easy to separate the development needs!
 
-## Development
+## Developments
 
 To spin up the project, simply install Docker Desktop and then run the following 
 commands:
